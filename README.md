@@ -1,6 +1,6 @@
 # Fetal Distress Detection
 
-This repository contains all the files related to my final year bachelor's project. The project focuses on analyzing the CTU-CHB Intrapartum Cardiotocography (CTG) dataset for predictive modeling.
+This repository contains the file related to my final year bachelor's project. The project focuses on analyzing the CTU-CHB Intrapartum Cardiotocography (CTG) dataset for predictive modeling.
 
 ## Content
 
